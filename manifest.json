@@ -6,15 +6,10 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d004db",
+  "prefer_related_applications": false,
   "scope": "./",
   "lang":"es-MX",
-  "prefer_related_applications": false,
   "icons": [
-    {
-      "src": "js/1.png",  // Asegúrate de tener este ícono con al menos 192x192 píxeles.
-      "sizes": "192x192",
-      "type": "image/png"
-    },
     {
       "src": "js/01.png",
       "sizes": "1024x1024",
@@ -60,5 +55,11 @@
       "sizes": "32x32",
       "type": "image/png"
     },
+    {
+      "src": "js/1",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
   ]
 }
+
